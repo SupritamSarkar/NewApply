@@ -1,1 +1,0 @@
-https://newapply.netlify.app
